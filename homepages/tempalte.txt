@@ -1,0 +1,75 @@
+<div id="cfct-build-3971" class="cfct-build">
+						<div class="cfct-row cfct-row-a-b-c">
+	<div class="cfct-block block-0 cfct-block-a">
+			<div class="cfct-module cfct-module-hero ">
+				<div class="cfct-module-hero-image" style="height: 360px; background-image: url(http://www.landscapegb.com/wp-content/uploads/2011/05/scotlandtrek-326x190.jpg); background-position: bottom center; background-repeat: no-repeat;">
+	<div class="cfct-module-hero-wrap">
+		<h2 class="cfct-mod-title">Great Wilderness Trek</h2><div class="cfct-mod-content"><p>Joe Cornish talks us through his hikes in the Great Wilderness [<a href="http://www.landscapegb.com/2011/05/great-wilderness-trek/">read more</a>]</p>
+</div><p><a href="http://www.landscapegb.com/2011/05/great-wilderness-trek/" class="more-link">Read More</a></p>	</div>
+</div>
+			</div>
+			</div><div class="cfct-block block-1 cfct-block-b">
+			<div class="cfct-module cfct-module-hero ">
+				<div class="cfct-module-hero-image" style="height: 360px; background-image: url(http://www.landscapegb.com/wp-content/uploads/2011/05/shift.jpg); background-position: bottom center; background-repeat: no-repeat;">
+	<div class="cfct-module-hero-wrap">
+		<h2 class="cfct-mod-title">The Shift in Tilt/Shift</h2><div class="cfct-mod-content"><p>We look at shift in a bit of a different way [<a href="http://www.landscapegb.com/2011/05/whats-the-shift-in-tilt-shift/">read more</a>]</p>
+</div><p><a href="http://www.landscapegb.com/2011/05/whats-the-shift-in-tilt-shift/" class="more-link">Read More</a></p>	</div>
+</div>
+			</div>
+			</div><div class="cfct-block block-2 cfct-block-c">
+			<div class="cfct-module cfct-module-hero ">
+				<div class="cfct-module-hero-image" style="height: 360px; background-image: url(http://www.landscapegb.com/wp-content/uploads/2011/05/photomusic.jpg); background-position: bottom center; background-repeat: no-repeat;">
+	<div class="cfct-module-hero-wrap">
+		<h2 class="cfct-mod-title">Photography / Music?</h2><div class="cfct-mod-content"><p>Tim Parkin looks at the links between photography and music [<a href="http://www.landscapegb.com/2011/05/photography-and-music/">read more</a>]</p>
+</div><p><a href="http://www.landscapegb.com/2011/05/photography-and-music/" class="more-link">Read More</a></p>	</div>
+</div>
+			</div>
+			</div>
+</div><div class="cfct-row cfct-row-a-b-c">
+	<div class="cfct-block block-0 cfct-block-a">
+			<div class="cfct-module cfct-callout style-a ">
+				<h2 class="cfct-mod-title cfct-header-small"><a href="http://www.landscapegb.com/2011/05/master-photographer-peter-dombrovskis/">Master Photographer - Peter Dombrovskis</a></h2><a href="http://www.landscapegb.com/2011/05/master-photographer-peter-dombrovskis/"><img width="90" height="90" src="http://www.landscapegb.com/wp-content/uploads/2011/05/dombrovskis-90x90.jpg" class="cfct-mod-image  cfct-image-right" alt="dombrovskis-90x90" title="dombrovskis-90x90"></a><div class="cfct-mod-content cfct-content-medium">
+	<p>We take a look at one of the pivotal landscape photographers [<a href="http://www.landscapegb.com/2011/05/master-photographer-peter-dombrovskis/">read more</a></p>
+</div>
+
+			</div>
+			</div><div class="cfct-block block-1 cfct-block-b">
+			<div class="cfct-module cfct-callout style-a ">
+				<h2 class="cfct-mod-title cfct-header-small"><a href="http://www.landscapegb.com/2011/05/beyond-beauty/">Beyond Beauty</a></h2><a href="http://www.landscapegb.com/2011/05/beyond-beauty/"><img width="90" height="90" src="http://www.landscapegb.com/wp-content/uploads/2011/05/beauty-90x90.jpg" class="cfct-mod-image  cfct-image-right" alt="beauty-90x90" title="beauty-90x90"></a><div class="cfct-mod-content cfct-content-medium">
+	<p>Julian Barkway looks at a deceptively complicated word [<a href="http://www.landscapegb.com/2011/05/beyond-beauty/">read more</a>]</p>
+</div>
+
+			</div>
+			</div><div class="cfct-block block-2 cfct-block-c">
+			<div class="cfct-module cfct-callout ">
+				<h2 class="cfct-mod-title cfct-header-small"><a href="http://www.landscapegb.com/2011/05/featured-photographer-doug-chinnery/">Featured Photographer - Doug Chinnery</a></h2><a href="http://www.landscapegb.com/2011/05/featured-photographer-doug-chinnery/"><img width="90" height="90" src="http://www.landscapegb.com/wp-content/uploads/2011/05/dougchinnery-90x90.jpg" class="cfct-mod-image  cfct-image-right" alt="dougchinnery-90x90" title="dougchinnery-90x90"></a><div class="cfct-mod-content cfct-content-medium">
+	<p>A photographer of many talents, we ask him the usual questions [<a href="http://www.landscapegb.com/2011/05/featured-photographer-doug-chinnery/">read more</a>]</p>
+</div>
+
+			</div>
+			</div>
+</div><div class="cfct-row cfct-row-a-b-c">
+	<div class="cfct-block block-0 cfct-block-a">
+			<div class="cfct-module cfct-callout style-a ">
+				<h2 class="cfct-mod-title cfct-header-small"><a href="http://www.landscapegb.com/2011/05/book-reviews-simply-the-quiet-land-by-peter-dombrovskis/">Book Review - Dombrovskis</a></h2><a href="http://www.landscapegb.com/2011/05/book-reviews-simply-the-quiet-land-by-peter-dombrovskis/"><img width="90" height="90" src="http://www.landscapegb.com/wp-content/uploads/2011/05/dombrovskis-books-90x90.jpg" class="cfct-mod-image  cfct-image-right" alt="dombrovskis-books-90x90" title="dombrovskis-books-90x90"></a><div class="cfct-mod-content cfct-content-medium">
+	<p>Simply and Quiet Land by Peter Dombrovskis [<a href="http://www.landscapegb.com/2011/05/book-reviews-simply-the-quiet-land-by-peter-dombrovskis/">read more </a>]</p>
+</div>
+
+			</div>
+			</div><div class="cfct-block block-1 cfct-block-b">
+			<div class="cfct-module cfct-callout style-a ">
+				<h2 class="cfct-mod-title cfct-header-small"><a href="http://www.landscapegb.com/2011/05/turning-landscape-photography-as-a-hobby-in-to-landscape-photography-as-a-career/">A Full Time Job?</a></h2><a href="http://www.landscapegb.com/2011/05/turning-landscape-photography-as-a-hobby-in-to-landscape-photography-as-a-career/"><img width="90" height="90" src="http://www.landscapegb.com/wp-content/uploads/2011/05/paularthur-90x90.jpg" class="cfct-mod-image  cfct-image-right" alt="paularthur-90x90" title="paularthur-90x90"></a><div class="cfct-mod-content cfct-content-medium">
+	<p>Paul Arthur looks at the switch to full time photographer [<a href="http://www.landscapegb.com/2011/05/turning-landscape-photography-as-a-hobby-in-to-landscape-photography-as-a-career/">read more</a>]</p>
+</div>
+
+			</div>
+			</div><div class="cfct-block block-2 cfct-block-c">
+			<div class="cfct-module cfct-callout style-a ">
+				<h2 class="cfct-mod-title cfct-header-small"><a href="http://www.landscapegb.com/2011/05/book-review-%E2%80%93-simply-beautiful-photographs/">Simply Beautiful Photographs</a></h2><a href="http://www.landscapegb.com/2011/05/book-review-%E2%80%93-simply-beautiful-photographs/"><img width="90" height="90" src="http://www.landscapegb.com/wp-content/uploads/2011/05/simply-beautiful-90x90.jpg" class="cfct-mod-image  cfct-image-right" alt="simply-beautiful-90x90" title="simply-beautiful-90x90"></a><div class="cfct-mod-content cfct-content-medium">
+	<p>A National Geographic book [<a href="http://www.landscapegb.com/2011/05/book-review-%E2%80%93-simply-beautiful-photographs/">read more</a>]</p>
+</div>
+
+			</div>
+			</div>
+</div>
+					</div>

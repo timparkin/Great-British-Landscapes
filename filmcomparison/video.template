@@ -1,0 +1,16 @@
+<h2>Part $PART</h2>
+Here is the 2.5Mbps version (click <a href="http://ec2-46-51-166-231.eu-west-1.compute.amazonaws.com:1935/vod/_definst_/mp4:$issue/$awsdir/$filename$suffix-2500.mov/playlist.m3u8">here</a> for iphone/ipad version)
+
+[jwplayer config="768x576" mediaid="$mediaid2500"]
+
+and here is the 1Mbps version (click <a href="http://ec2-46-51-166-231.eu-west-1.compute.amazonaws.com:1935/vod/_definst_/mp4:$issue/$awsdir/$filename$suffix-1000.mov/playlist.m3u8">here</a> for iphone/ipad version)
+
+[jwplayer config="768x576" mediaid="$mediaid1000"]
+
+Or if you are on a slow iPhone/iPad connection you can try a lower bandwidth version by clicking <a href="http://ec2-46-51-166-231.eu-west-1.compute.amazonaws.com:1935/vod/_definst_/mp4:$issue/$awsdir/$filename$suffix-300.mov/playlist.m3u8">here</a>
+
+Or download the video using these links. Right click the link (or ctrl-click on a mac) and us 'save as' :-
+
+<a href="http://static.timparkin.co.uk/static/landscapegb/$issue/$staticdir/$filename$suffix-2500.mov">2.5Mpbs</a>
+<a href="http://static.timparkin.co.uk/static/landscapegb/$issue/$staticdir/$filename$suffix-1000.mov">1Mpbs</a>
+<a href="http://static.timparkin.co.uk/static/landscapegb/$issue/$staticdir/$filename$suffix-300.mov">300kbps</a>

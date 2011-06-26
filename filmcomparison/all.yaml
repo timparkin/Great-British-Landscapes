@@ -1,0 +1,364 @@
+
+-
+    issue: 17
+    title: Whole Photograph
+    directory: all 
+    width: 629 
+    height: 800 
+    e6suffix: 
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: default
+    c41films:
+      - Ektar
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Whole Photograph (added contrast to neg and shadow/highlight to slides)
+    directory: all 
+    width: 629 
+    height: 800 
+    e6suffix: sh
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: contrast
+    c41films:
+      - Ektar
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Whole Photograph (added grad to neg and shadow/highlight to slides)
+    directory: all 
+    width: 629 
+    height: 800 
+    e6suffix: sh
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: grad
+    c41films:
+      - Ektar
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Houses (default settings)
+    directory: houses
+    width: 770
+    height: 529
+    e6suffix: 
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix:
+    c41films:
+      - Ektar
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Houses (Boost curve)
+    directory: houses
+    width: 770
+    height: 529
+    e6suffix: boost
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: boost
+    c41films:
+      - Ektar
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Houses (200% grain)
+    directory: houses
+    width: 632
+    height: 648
+    e6suffix: grain
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: grain
+    c41films:
+      - Ektar
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Sky (default)
+    directory: sky
+    width: 707
+    height: 800
+    e6suffix: 
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix:
+    c41films:
+      - Ektar
+      - Ektar grad
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Sky (curves on negs)
+    directory: sky
+    width: 707
+    height: 800
+    e6suffix: 
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: curve
+    c41films:
+      - Ektar
+      - Ektar grad
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Sky (curves on negs and noise reduction)
+    directory: sky
+    width: 707
+    height: 800
+    e6suffix: 
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: curve n
+    c41films:
+      - Ektar
+      - Ektar grad
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Castle (default)
+    directory: castle/real
+    width: 770
+    height: 590
+    e6suffix: 
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: 
+    c41films:
+      - Ektar
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Castle (boost)
+    directory: castle/log
+    width: 770
+    height: 590
+    e6suffix: log 
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: color
+    c41films:
+      - Ektar
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Castle (colour match)
+    directory: castle/color
+    width: 770
+    height: 590
+    e6suffix: log color
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: color
+    c41films:
+      - Ektar
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Shadows (default boost scan)
+    directory: shadows
+    width: 755
+    height: 800
+    e6suffix: 
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: 
+    c41films:
+      - Ektar
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Shadows (default boost scan)
+    directory: shadows
+    width: 755
+    height: 800
+    e6suffix: copy
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: copy
+    c41films:
+      - Ektar
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
+-
+    issue: 17
+    title: Shadows (default boost scan)
+    directory: shadows
+    width: 755
+    height: 800
+    e6suffix: copy 2
+    e6films:
+      - Velvia 50
+      - Velvia 100
+      - Velvia 100F
+      - Provia
+      - Astia
+      - E100G
+      - E100VS
+    c41suffix: copy 2
+    c41films:
+      - Ektar
+      - Pro160S
+      - Portra 160NC
+      - Portra 160VC
+      - Portra 160
+      - Portra 400NC
+      - Portra 400
