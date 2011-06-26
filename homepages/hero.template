@@ -1,0 +1,13 @@
+    <div class="cfct-block block-$n cfct-block-$nl">
+      <div class="cfct-module cfct-module-hero ">
+        <div class="cfct-module-hero-image" style="height: 360px; background-image: url($img); background-position: bottom center; background-repeat: no-repeat;">
+          <div class="cfct-module-hero-wrap">
+            <h2 class="cfct-mod-title">$title</h2>
+            <div class="cfct-mod-content">
+              <p>$desc [<a href="$link">read more</a>]</p>
+            </div>
+            <p><a href="$link" class="more-link">Read More</a></p>
+          </div>
+        </div>
+      </div>
+    </div>

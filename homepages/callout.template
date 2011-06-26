@@ -1,0 +1,10 @@
+    <div class="cfct-block block-$n cfct-block-$nl">
+      <div class="cfct-module cfct-callout style-a ">
+        <h2 class="cfct-mod-title cfct-header-small"><a href="$link">$title</a></h2>
+        <a href="$link"><img width="90" height="90" src="$img" class="cfct-mod-image  cfct-image-right" alt="$imgalt" title="$imgalt"></a>
+        <div class="cfct-mod-content cfct-content-medium">
+          <p>$desc [<a href="$link">read more</a></p>
+        </div>
+      </div>
+    </div>
+    
