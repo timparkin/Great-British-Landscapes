@@ -7,76 +7,51 @@ import sys
 data_filename = sys.argv[1]
 data_yaml = open(data_filename).read()
 
-index = Template(open('before-after.template').read())
-beforerow = Template(open('before-row.template').read())
-afterrow = Template(open('after-row.template').read())
+heroitem = Template(open('hero.template').read())
+main = Template(open('main.template').read())
+callout = Template(open('callout.template').read())
+calloutsrow = Template(open('calloutsrow.template').read())
 
 datas = yaml.load(data_yaml)
 
-prefixjs = """
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/jquery-ui.min.js" type="text/javascript"></script>
-<script src="http://static.timparkin.co.uk/static/landscapegb/1/shooting-into-the-sun/js/jquery.beforeafter.js"></script>
-<script type="text/javascript">// <![CDATA[
-$(function() {
-"""
-lines = []
-for n,item in enumerate(datas):
-    N = str(n+1)
-    lines.append( "$('.beforeAfter" + N + "').beforeAfter();")
+issue = datas['issue']
+heros = datas['heros']
+callouts = datas['callouts']
 
-prefixjs += '\n'.join(lines)
-prefixjs += """
-$('.swapper').mousedown(function() {
-    var base = $(this).parent().attr('urlbase');
-    var img = $(this).attr('img');
-    var target = $(this).attr('target');
-    var title = $(this).text();
-    var beforeafter = $(this).attr('beforeafter');
-    $('.beforeAfter'+target+' '+beforeafter).attr('src',base+'/'+img);
-    $('.beforeAfter'+target+'-desc'+' '+beforeafter).html(title);
-});
-    }
-);
-// ]]></script>
-"""
-print prefixjs
+toprow = []
+for n,data in enumerate(heros):
 
+    nl = chr(97+n)
+    img = 'http://static.timparkin.co.uk/static/landscapegb/%s/images/%s.jpg'%(issue,data['img'])
+    hero = heroitem.substitute( n=n,nl=nl,title=data['title'],desc=data['desc'],img=img,link=data['link'],imgalt=data.get('imgalt',data['title']) )
+    
 
-for n,data in enumerate(datas):
-    N = str(n+1)
-    brow = ''
-    arow = ''
-    if data['e6suffix'] is None:
-        e6suffix = ''
-    else:
-        e6suffix = ' ' + data['e6suffix']
-    if data['c41suffix'] is None:
-        c41suffix = ''
-    else:
-        c41suffix = ' ' + data['c41suffix']
-    for film in data['e6films']:
-        b = beforerow.substitute( film=film, suffix = e6suffix ,N=N)
-        a = afterrow.substitute( film=film, suffix = e6suffix,N=N )
-        brow += b + '\n'
-        arow += a + '\n'
-    for film in data['c41films']:
-        b = beforerow.substitute( film=film, suffix = c41suffix ,N=N)
-        a = afterrow.substitute( film=film, suffix = c41suffix,N=N )
-        brow += b + '\n'
-        arow += a + '\n'
-    out = index.substitute( title=data['title'],
-                            directory = data['directory'],
-                            issue = data['issue'],
-                            N = N,
-                            width = data['width'],
-                            height = data['height'],
-                            brow = brow,
-                            arow = arow,
-                            suffix=e6suffix,
-                          )
+    toprow.append(hero)
 
-    print out
+row = []
+allrows = []
+for n,data in enumerate(callouts):
 
+    nl = chr(97+divmod(n,3)[1])
+    img = 'http://static.timparkin.co.uk/static/landscapegb/%s/images/%s.jpg'%(issue,data['img'])
+    calloutrow = callout.substitute( n=divmod(n,3)[1],nl=nl,title=data['title'],desc=data['desc'],img=img,link=data['link'],imgalt=data.get('imgalt',data['title']) )
+    
 
+    row.append(calloutrow)
+    if divmod(n+1,3)[1] == 0:
+        calloutsrowout = calloutsrow.substitute( callouts='\n'.join(row) )
+        allrows.append(calloutsrowout)
+        row = []
+
+if len(row) != 0:
+    if len(row) == 1:
+        row.append('<div class="cfct-block block-1 cfct-block-b"></div>')
+        row.append('<div class="cfct-block block-2 cfct-block-c"></div>')
+    if len(row) == 2:
+        row.append('<div class="cfct-block block-2 cfct-block-c"></div>')
+    calloutsrowout = calloutsrow.substitute( callouts='\n'.join(row) )
+    allrows.append(calloutsrowout)
+out = main.substitute( heros='\n'.join(toprow), calloutrows='\n'.join(allrows) )
+print out.replace('\n','')
+#print out
 

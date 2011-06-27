@@ -1,4 +1,5 @@
 <h2>$title</h2>
+<p>$desc</p>
 <div class="beforeAfter$N">
 <div><img class="before" src="http://static.timparkin.co.uk/static/landscapegb/$issue/film-comparison/$directory/Velvia 50$suffix.jpg" alt="before" width="$width" height="$height" /></div>
 <div><img class="after" src="http://static.timparkin.co.uk/static/landscapegb/$issue/film-comparison/$directory/Velvia 100$suffix.jpg" alt="after" width="$width" height="$height" /></div>

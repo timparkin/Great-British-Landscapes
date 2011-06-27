@@ -2,6 +2,7 @@
 -
     issue: 17
     title: Whole Photograph
+    desc: The full picture with the photographs as they came out of the scanner (which means calibrated chromes and for neg film I set the shadow highlight points in my Howtek drum scanner software. However, similar results were had by making a raw scan and setting the RGB points in photoshop.)
     directory: all 
     width: 629 
     height: 800 
@@ -26,6 +27,7 @@
 -
     issue: 17
     title: Whole Photograph (added contrast to neg and shadow/highlight to slides)
+    desc: Because the negs come out with a very low contrast, I've applied a strong contrast curve, pulling the shadows and mid tones down and pushing the highlights up to creating a strong shoulder
     directory: all 
     width: 629 
     height: 800 
@@ -50,6 +52,7 @@
 -
     issue: 17
     title: Whole Photograph (added grad to neg and shadow/highlight to slides)
+    desc: In order to compare the slides and negs, many people will add a 'virtual' grad over the neg skies and so I've done some post processing on the negs that I would if I wanted to make them look more 'chrome' like
     directory: all 
     width: 629 
     height: 800 
@@ -74,6 +77,7 @@
 -
     issue: 17
     title: Houses (default settings)
+    desc: "Here are the houses on the left hand side of the picture with the chromes boosted to show the shadow detail (not much needed doing the the negs) I've tried to balance the negs by setting a grey point on one of the posts"
     directory: houses
     width: 770
     height: 529
@@ -98,6 +102,7 @@
 -
     issue: 17
     title: Houses (Boost curve)
+    desc: Applying a general boost to show the shadows (which has blown the highlights in the chromes)
     directory: houses
     width: 770
     height: 529
@@ -122,6 +127,7 @@
 -
     issue: 17
     title: Houses (200% grain)
+    desc: To give you an idea of the grain in the different film types, we've boosted the shadows on our 4000dpi scan and shown the results at 200%
     directory: houses
     width: 632
     height: 648
@@ -146,6 +152,7 @@
 -
     issue: 17
     title: Sky (default)
+    desc: Sky colour is something that changes quite a lot between different film types and so we've shown the raw sky results first
     directory: sky
     width: 707
     height: 800
@@ -171,6 +178,7 @@
 -
     issue: 17
     title: Sky (curves on negs)
+    desc: "We've applied a virtual grad to the negs to show how they would look with a photoshop grad applied. You can see that we have an Ektar shot where we've applied an actual grad; The difference in colour is remarkable with Ektar where it changes colour depending on exposure level."
     directory: sky
     width: 707
     height: 800
@@ -196,6 +204,7 @@
 -
     issue: 17
     title: Sky (curves on negs and noise reduction)
+    desc: "Neg film is particularly noisy in the highlights (especially when you make a scan using a 6 micron aperture like I have - if you use a drum scanner it is better to use a larger aperture. However I've found better results applying noise reduction to a finer scan. Here I've used Imagenomic's Noiseware"
     directory: sky
     width: 707
     height: 800
@@ -221,6 +230,7 @@
 -
     issue: 17
     title: Castle (default)
+    desc: We take a look at the castle with the chromes boosted a bit to bring up the shadows
     directory: castle/real
     width: 770
     height: 590
@@ -245,6 +255,7 @@
 -
     issue: 17
     title: Castle (boost)
+    desc: And an even bigger boost to show what is going on in the shadows
     directory: castle/log
     width: 770
     height: 590
@@ -269,6 +280,7 @@
 -
     issue: 17
     title: Castle (colour match)
+    desc: And finally I wanted to see what the castle would look like if we normlised the colour balance between the different films by taking a grey point off the white flowers in the foreground.
     directory: castle/color
     width: 770
     height: 590
@@ -293,6 +305,7 @@
 -
     issue: 17
     title: Shadows (default boost scan)
+    desc: "We're trying to see what is happening in the deep shadows at the bottom left of the picture"
     directory: shadows
     width: 755
     height: 800
@@ -316,7 +329,8 @@
       - Portra 400
 -
     issue: 17
-    title: Shadows (default boost scan)
+    title: Shadows (more boost)
+    desc: Lifting the shadows even further to show where things fall into complete black (or complete blurgh in some films cases)
     directory: shadows
     width: 755
     height: 800
@@ -341,6 +355,7 @@
 -
     issue: 17
     title: Shadows (default boost scan)
+    desc: "And finally we fix the black points as there were some horrible colours in the deep shadows of some films (e.g. Velvia 100, Velvia 100F). This is probably the best comparison of 'capability'"
     directory: shadows
     width: 755
     height: 800

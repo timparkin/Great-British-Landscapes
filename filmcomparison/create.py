@@ -66,6 +66,7 @@ for n,data in enumerate(datas):
         brow += b + '\n'
         arow += a + '\n'
     out = index.substitute( title=data['title'],
+                            desc=data['desc'],
                             directory = data['directory'],
                             issue = data['issue'],
                             N = N,
