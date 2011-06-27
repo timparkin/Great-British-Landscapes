@@ -1,0 +1,35 @@
+issue: 17
+heros:
+  - title: Paul Gallagher
+    desc: Paul talks us through his photography through his photographs
+    img: gallagher
+    link: /2011/06/paul-gallagher/
+  - title: Brockwell Park
+    desc: Max Rush takes us through a year in photographs
+    img: brockwell
+    link: /2011/06/brockwell-park-a-year-in-landscape-photographs/
+  - title: Anthropomorphism
+    desc: Mike Green looks at the human form
+    img: anthro
+    link: /2011/06/anthropomorphism-in-landscape-photography/
+callouts:
+  - title: Film Comparison
+    desc: Another in the series comparing colour films
+    img: film
+    link: /2011/06/colour-film-comparison-pt-3/
+  - title: A Letter from Scotland
+    desc: Richard Childs takes us back to Eigg
+    img: eigg
+    link: /2011/06/eiggvolution-of-an-idea/
+  - title: Creative Ruts
+    desc: Tim Smalley gets past a creative rut
+    img: smalley
+    link: /2011/06/escaping-the-rut/
+  - title: Featured Photographer, Paul Moon
+    desc: The Yorkshire Wolds photographer
+    img: moon
+    link: /2011/06/featured-photographer-paul-moon/
+  - title: The Rolls Royce of Geared Heads
+    desc: Dave Tolcher walks us through the D4 Arca head
+    img: d4
+    link: /2011/06/the-arca-d4-a-new-standard-for-geared-heads/

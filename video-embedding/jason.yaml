@@ -1,0 +1,32 @@
+
+-
+
+    part: One
+    issue: 13
+    suffix: -1
+    awsdir: jason
+    staticdir: jason
+    filename: jason
+    mediaid2500: 3690
+    mediaid1000: 3691
+
+- 
+    part: Two
+    issue: 13
+    suffix: -2
+    awsdir: jason
+    staticdir: jason
+    filename: jason
+    mediaid2500: 3692
+    mediaid1000: 3693
+
+- 
+    part: Three
+    issue: 13
+    suffix: -3
+    awsdir: jason
+    staticdir: jason
+    filename: jason
+    mediaid2500: 3694
+    mediaid1000: 3695
+

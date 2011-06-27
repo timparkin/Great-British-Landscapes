@@ -1,0 +1,31 @@
+
+-
+
+    part: One
+    issue: 17
+    suffix: -1
+    awsdir: gallagher
+    staticdir: gallagher
+    filename: gallagher
+    mediaid2500: 4727
+    mediaid1000: 4728
+
+- 
+    part: Two
+    issue: 17
+    suffix: -2
+    awsdir: gallagher
+    staticdir: gallagher
+    filename: gallagher
+    mediaid2500: 4729
+    mediaid1000: 4730
+
+- 
+    part: Three
+    issue: 17
+    suffix: -3
+    awsdir: gallagher
+    staticdir: gallagher
+    filename: gallagher
+    mediaid2500: 4731
+    mediaid1000: 4732

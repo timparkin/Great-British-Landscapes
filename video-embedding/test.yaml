@@ -1,0 +1,21 @@
+
+-
+
+    part: One
+    issue: 11
+    suffix: -etive
+    awsdir: crit-garrigus
+    staticdir: crit-garrigus
+    filename: garrigus
+    mediaid2500: 3223
+    mediaid1000: 3224
+
+- 
+    part: Two
+    issue: 11
+    suffix: -boulder
+    awsdir: crit-garrigus
+    staticdir: crit-garrigus
+    filename: garrigus
+    mediaid2500: 3225
+    mediaid1000: 3226

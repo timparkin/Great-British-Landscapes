@@ -1,0 +1,31 @@
+
+-
+
+    part: One
+    issue: 12
+    suffix: -1
+    awsdir: richardchilds
+    staticdir: richardchilds
+    filename: richardchilds
+    mediaid2500: 3308
+    mediaid1000: 3309
+
+- 
+    part: Two
+    issue: 12
+    suffix: -2
+    awsdir: richardchilds
+    staticdir: richardchilds
+    filename: richardchilds
+    mediaid2500: 3310
+    mediaid1000: 3311
+
+- 
+    part: Three
+    issue: 12
+    suffix: -3
+    awsdir: richardchilds
+    staticdir: richardchilds
+    filename: richardchilds
+    mediaid2500: 3312
+    mediaid1000: 3313

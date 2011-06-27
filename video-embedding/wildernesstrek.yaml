@@ -1,0 +1,22 @@
+
+-
+
+    part: One
+    issue: 14
+    suffix: -1
+    awsdir: wildernesstrek
+    staticdir: wildernesstrek
+    filename: wildernesstrek
+    mediaid2500: 4007
+    mediaid1000: 4008
+
+- 
+    part: Two
+    issue: 14
+    suffix: -2
+    awsdir: wildernesstrek
+    staticdir: wildernesstrek
+    filename: wildernesstrek
+    mediaid2500: 4009
+    mediaid1000: 4010
+

@@ -1,0 +1,31 @@
+
+-
+
+    part: One
+    issue: 16
+    suffix: -1
+    awsdir: bandw
+    staticdir: bandw
+    filename: bandw
+    mediaid2500: 4449
+    mediaid1000: 4450
+
+- 
+    part: Two
+    issue: 16
+    suffix: -2
+    awsdir: bandw
+    staticdir: bandw
+    filename: bandw
+    mediaid2500: 4451
+    mediaid1000: 4452
+
+- 
+    part: Three
+    issue: 16
+    suffix: -3
+    awsdir: bandw
+    staticdir: bandw
+    filename: bandw
+    mediaid2500: 4453
+    mediaid1000: 4454
