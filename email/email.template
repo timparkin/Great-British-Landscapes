@@ -1,0 +1,213 @@
+﻿<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <title>Great British Landscapes - Issue $ntext</title>
+   <style type="text/css" media="screen">
+      body {
+      	margin: 0;
+      	padding: 0;
+      }
+
+      a {
+      	color: #cc0000;
+      }
+
+      td.permission {
+      	font-family: Georgia, serif;
+      	font-size: 11px;
+      	font-weight: normal;
+      	color: #333333;
+      	padding: 20px 0 10px 0;
+      }
+
+      td.permission a {
+      	font-family: Georgia, serif;
+      	font-size: 11px;
+      	font-weight: normal;
+      	color: #000000;
+      }
+
+      td.header {
+      	height: 100px;
+      }
+
+      td.header h1 {
+      	font-family: Georgia;
+      	font-size: 44px;
+      	font-weight: bold;
+      	color: #000000;
+      	display: inline;
+      }
+
+      table.sidebar td {
+      	border-bottom: 1px dotted #d5d5d5;
+      	padding: 20px 0 20px 0;
+      }
+
+      h4.meta {
+      	font-family: Georgia;
+      	font-size: 12px;
+      	font-weight: normal;
+      	color: #999999;
+      	margin: 0;
+      	padding: 0;
+      	text-transform: uppercase;
+      }
+
+      table.sidebar ul {
+      	margin: 0 0 0 24px;
+      	padding: 0;
+      }
+
+      table.sidebar ul li a {
+      	font-family: Arial;
+      	font-size: 12px;
+      	font-weight: normal;
+      	color: #cc0000;
+      }
+
+      table.sidebar h3 {
+      	font-family: Georgia;
+      	font-size: 18px;
+      	font-weight: normal;
+      	color: #000000;
+      	margin: 0 0 10px 0;
+      	padding: 0;
+      }
+
+      table.sidebar p {
+      	font-family: Georgia;
+      	font-size: 12px;
+      	font-weight: normal;
+      	color: #000000;
+      	margin: 0 0 12px 0;
+      	padding: 0;
+      }
+
+      table.sidebar p.miniheader {
+      	font-family: Georgia;
+      	font-size: 12px;
+      	font-weight: bold;
+      	color: #000000;
+      	margin: 0 0 4px 0;
+      	padding: 0;
+      }
+
+      td.mainbar h2 {
+      	font-family: Georgia;
+      	font-size: 18px;
+      	font-weight: normal;
+      	color: #000000;
+      	margin: 20px 0 8px 0;
+      	padding: 0;
+      }
+
+      td.mainbar h2 a {
+      	font-family: Georgia;
+      	font-size: 18px;
+      	font-weight: normal;
+      	color: #000000;
+      	text-decoration: none;
+      }
+
+      td.mainbar p {
+      	font-family: Georgia;
+      	font-size: 13px;
+      	font-weight: normal;
+      	color: #333333;
+      	margin: 0 0 20px 0;
+      	padding: 0;
+      }
+
+      td.mainbar p.top {
+      	padding: 0 0 6px 0;
+      	border-bottom: 1px dotted #d5d5d5;
+      }
+
+      td.mainbar p.top a {
+      	font-family: Georgia;
+      	font-size: 10px;
+      	font-weight: normal;
+      	color: #cc0000;
+      }
+
+      td.mainbar ul {
+      	font-family: Georgia;
+      	font-size: 13px;
+      	font-weight: normal;
+      	color: #333333;
+      }
+
+      td.footer {
+      	font-family: Georgia;
+      	font-size: 11px;
+      	font-weight: normal;
+      	color: #333333;
+      	padding: 10px 0 10px 0;
+      }
+
+      td.footer span {
+      	font-weight: bold;
+      }
+   </style>
+</head>
+<body>	
+<a name="top" id="top"></a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+      <td align="center">
+         
+         <table width="580" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+               <td align="center" class="permission">
+                  <p>You're receiving this newsletter because you are a subscriber or expressed an interest in Great British Landscapes.</p>
+                  <p>Having trouble reading this email? <webversion>View it on your browser</webversion>. Not interested anymore? <unsubscribe>Unsubscribe Instantly</unsubscribe>.</p>
+               </td>
+            </tr>
+            <tr>
+               <td class="header" height="77">
+                  <img src="header.png" width="580" height="100" alt="Great British Landscapes" />
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  
+                  <table width="580" border="0" cellspacing="20" cellpadding="0">
+                     
+                     <tr>
+                        <td width="580" align="left" valign="top" class="mainbar">
+                           <h4 class="meta"><$$title$$></h4>
+                          
+
+                             <h2 style="font-family: Georgia; font-size: 18px; font-weight: normal; color: rgb(0, 0, 0); margin: 20px 0pt 8px; padding: 0pt;"><a name="487DA5BC6D6026DD" style="font-family: Georgia; font-size: 18px; font-weight: normal; color: rgb(0, 0, 0); text-decoration: none;"></a>What's in this issue then?</h2>
+                             <a href="http://www.landscapegb.com/issues/lgb-00$nn/?utm_source=issue$nn&utm_medium=email&utm_campaign=paid"><img src="http://static.timparkin.co.uk/static/landscapegb/covers/emails/$nn.jpg" width="500" border="0" style="display:block;margin-left:20px" /></a><br /><br />
+                          $content
+<p style="font-family: Georgia; font-size: 13px; font-weight: normal; color: rgb(51, 51, 51); margin: 0pt 0pt 20px; padding: 0pt;"> Hope you enjoy things and don't forget to let us know if you are interested in writing for Great British Landscapes and/or if there is anything in particular you would like us to write about. </p>
+<p style="font-family: Georgia; font-size: 13px; font-weight: normal; color: rgb(51, 51, 51); margin: 0pt 0pt 20px; padding: 0pt;">[<a href="http://www.landscapegb.com/issues/lgb-00$nn/?utm_source=issue$nn&utm_medium=email&utm_campaign=paid" style="color: rgb(204, 0, 0);">go to issue $nn of LandscapeGB</a>]</p>
+  
+   
+
+<h2 style="font-family: Georgia; font-size: 18px; font-weight: normal; color: rgb(0, 0, 0); margin: 20px 0pt 8px; padding: 0pt;">What's all this subscription stuff about?</h2>
+<p style="font-family: Georgia; font-size: 13px; font-weight: normal; color: rgb(51, 51, 51); margin: 0pt 0pt 20px; padding: 0pt;"> Well, even though the majorty of the content is free, the magazine is still a business venture and it costs a few hundred pounds to run and takes about six or seven full days per issue to create a deploy. Hopefully you'll appreciate the content and want to subscribe and if you do, you'll also get access to the video content that Tim, Joe and our guests produce and also some of the best articles that are written. You can subscribe by clicking on the 'register' link at the top right of the magazine or by clicking on the links at the bottom of every page. Don't forget that your subscription is ongoing (i.e. you will get billed again until you cancel) but cancellation is simple and instructions are included in your subscription emails.</p>
+<p style="font-family: Georgia; font-size: 13px; font-weight: normal; color: rgb(51, 51, 51); margin: 0pt 0pt 20px; padding: 0pt;">We'll be running the magazine for at least the next $nextn months and hopefully it will be a self supporting venture at that point (possibly. Hopefully, earlier!). Thank you for your time and if you already subscribe then thank you for your support.</p>
+<p style="font-family: Georgia; font-size: 13px; font-weight: normal; color: rgb(51, 51, 51); margin: 0pt 0pt 20px; padding: 0pt;">[<a href="http://www.landscapegb.com/issues/lgb-00$nn/?utm_source=issue$nn&utm_medium=email&utm_campaign=paid" style="color: rgb(204, 0, 0);">go to issue $nn of LandscapeGB</a>]</p></td>
+                     </tr>
+                  </table>
+                  
+               </td>
+            </tr>
+            <tr>
+               <td align="center" valign="top" class="footer">
+                  <p><forwardtoafriend>Forward this email</forwardtoafriend> to a friend. Not interested in updates anymore? <unsubscribe>Unsubscribe</unsubscribe>.</p>
+<$$description$$>
+
+               </td>
+            </tr>
+         </table>
+         
+      </td>
+   </tr>
+</table>
+
+</body>
+</html>
